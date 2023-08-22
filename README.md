@@ -21,7 +21,7 @@ MongoDB instance running.
 Installation
 
 1. Clone the repository:
-git clone https://github.com/your-username/ai-image-generation.git
+git clone https://github.com/PetarKazandzhiev/JM--MERN-DALL-E-Image-Generation-App.git
 
 
 2. Navigate to the project directory:
